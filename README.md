@@ -1,1 +1,1 @@
-# Chisl-metods-lab3
+# Chisl-metods-labs
